@@ -36,10 +36,25 @@ pip install pyfiglet
 
 ## 🚀 Usage
 
+
+
 Run the script via terminal:
+
+### Python
 
 ```bash
 python3 FangShepherd.py
+```
+
+### golang
+Run the script via terminal:
+
+```bash
+go run .
+```
+
+```bash
+go run main.go
 ```
 
 ### Main Menu Options
