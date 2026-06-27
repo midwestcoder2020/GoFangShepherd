@@ -1,8 +1,8 @@
 # 🐺 FangShepherd
 
-**Author:** Alayna Ferdarko  
+**Author:** midwestcoder2020
 **Version:** 1.0  
-**Date:** March 13, 2025  
+**Date:** June, 2026
 
 ---
 
