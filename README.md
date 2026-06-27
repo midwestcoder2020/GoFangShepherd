@@ -1,8 +1,8 @@
 # 🐺 FangShepherd
 
-**Author:** midwestcoder2020
+**Author:** Alayna Ferdarko, midwestcoder2020 (golang support)
 **Version:** 1.0  
-**Date:** June, 2026
+**Date:** March 13, 2025
 
 ---
 
